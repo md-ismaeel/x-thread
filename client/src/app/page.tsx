@@ -13,6 +13,9 @@ export default function Home() {
 
         <Share/>
         <Post/>
+        <Post/>
+        <Post/>
+        <Post/>
       </main>
     </>
   );

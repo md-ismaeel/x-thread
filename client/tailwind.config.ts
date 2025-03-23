@@ -22,7 +22,7 @@ export default {
         inputGray: "#202327",
         iconBlue: "#1d9bf0",
         iconGreen: "#00ba7c",
-        iconPink: "#f91880",
+        iconPink: "#f91880",  
       },
     },
   },
